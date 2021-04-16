@@ -1,0 +1,28 @@
+* general instructions:
+1. create an empty folder and name is "assignment3".
+2. open the empty folder with your code editor and add an HTML and CSS file to it.
+3. create an HTML and CSS form exactly as shown in the video (open in VLC).
+4. the necessary images are included with the assignment.
+5. HTML and CSS must be in separate files.
+
+* form style:
+6. the distance between the top of the form and the top of the page is 50 pixels.
+7. the width of the form is half of the page width.
+8. the padding in the form is 10 pixels.
+
+* lock image style:
+9. the width of the lock image must be 100 pixels.
+10. the distance between the lock image and the email field is 10 pixels.
+
+input styles:
+11. the distance between each input is also 10 pixels.
+12. email and password fields must be "required".
+13. email field must receive focus when the page is loaded (hint: autofocus).
+14. the font size of all inputs is 20 pixels.
+15. the width of each input is the full width of the form.
+16. the padding in each input is 10 pixels. (hint: if you face problems with the width then check "box-sizing" property)
+17. use the color "rgba(255, 255, 255, 0.5)" for the line under the email and password fields.
+
+* forget password style:
+18. the forget password link has a pading of 5 pixels.
+19. the forget password link has an opacity of 0.6 in the default state and an opacity of 1 when the mouse cursor moves over it.
